@@ -3,6 +3,6 @@ title: Christopher
 logo: https://pfp.nostr.build/16c06900f2d6aba8d0374247a2f47304421aedd9a1cb0e3ad3c855b8025bd394.png
 #description: text below image
 show_download: true
-theme: jekyll-theme-minimal-mistakes
+theme: jekyll-theme-minimal
 theme-color: dark 
 name: Christopher
