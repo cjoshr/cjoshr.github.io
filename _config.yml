@@ -1,1 +1,5 @@
 title: Christopher's Portfolio
+logo: https://github.com/cjoshr/cjoshr.github.io/blob/main/assets/unnamed.png
+#description: text under logo
+show_downloads: true
+theme: jekyll-theme-minimal 
